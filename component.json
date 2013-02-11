@@ -1,0 +1,11 @@
+{
+    "name": "component-travis-mocha-phantomjs-chai",
+    "description": "test setup for components with travis support",
+    "version": "0.0.1",
+    "keywords": [],
+    "dependencies": {},
+    "development": {},
+    "scripts": [
+        "index.js"
+    ]
+}
